@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![byference's github stats](https://github-readme-stats.vercel.app/api?username=byference&show_icons=true&theme=onedark)](https://github.com/byference)
+[![byference's github stats](https://github-readme-stats.vercel.app/api?username=byference&show_icons=true)](https://github.com/byference)
 
 <!--
 **byference/byference** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
